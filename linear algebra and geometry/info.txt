@@ -11,3 +11,7 @@ https://github.com/DimaTrushin/LinearAlgebra/tree/2023
 
 Семинарист: Игнатьев Михаил Викторович
 https://www.hse.ru/org/persons/856267465/
+
+Литература
+А. И. Кострыкин - задачник
+https://archive.org/details/tol_818/mode/2up
